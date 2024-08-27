@@ -36,7 +36,9 @@ dependencies = [
     "pyjnius >= 1.6.0, < 2.0.0",
     "requests >= 2.28.2, < 3.0.0",
     "PyGithub >= 1.58.1, < 2.0.0",
-    "tqdm >= 4.65.0, < 5.0.0"
+    "tqdm >= 4.65.0, < 5.0.0",
+    "pandas >= 2.2.2, < 3.0.0",
+    "networkx >= 3.3, < 4.0",
 ]
 
 [project.urls]
